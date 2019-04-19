@@ -1,2 +1,2 @@
-# -n-h-p-ng-MIPS
+# Đồ án hợp ngữ MIPS
 Thư viện Date
